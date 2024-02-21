@@ -1,0 +1,22 @@
+.nav-link {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+
+  .nav-link:hover {
+    text-decoration: none;
+  }
+
+  .btn {
+  background-color: #2176FF;
+  border-radius: 2px;
+  color: #ffffff;
+  font-family: 'Raleway',sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 14px;
+  text-decoration: none;
+  text-transform: uppercase;
+  cursor: pointer;
+}
